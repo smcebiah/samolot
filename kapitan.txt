@@ -1,2 +1,6 @@
 Samolot robi brr
+<<<<<<< HEAD
 Szybko i zwinnie
+=======
+A kapitan robi zzzz
+>>>>>>> d30827ff2c5c4d9731ea236481035bf65da3461c
